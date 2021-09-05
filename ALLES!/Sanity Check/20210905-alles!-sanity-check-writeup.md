@@ -2,7 +2,7 @@
 
 **Category**: web, **Difficulty**: easy, **Author**: fionera, **Points**: 104
 
-Challenge text: *You aren't a 🤖, right?*
+**Challenge text**: *You aren't a 🤖, right?*
 
 #### The Challenge
 

@@ -4,7 +4,7 @@
 
 **Challenge text**: *You aren't a 🤖, right?*
 
-#### The Challenge
+### The Challenge
 
 When the challenge is entered, a web page is displayed containing one sentence, which is displayed twice, with a black background.
 
@@ -18,9 +18,7 @@ After the animation was admired, we added */robots.txt* to the end of the URL, w
 
 ![](./img/robots.txt.png)
 
-
-
-#### Debrief
+### Debrief
 
 The challenge was pretty easy and a nice start to the CTF. Everyone with a bit of experience in CTF's, computer science or/and in web development, will have a easy time with this challenge.
 

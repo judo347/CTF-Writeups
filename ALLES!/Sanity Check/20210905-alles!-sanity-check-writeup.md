@@ -10,11 +10,11 @@ When the challenge is entered, a web page is displayed containing one sentence, 
 
 The sentence that is blurred is animated and flickering in place and at times moving down to the right and back. The source code had nothing out of the ordinary, but the page was received with the error code: *418 I'm a teapot*.
 
-![](.\img\httpResponse.png)
+![](./img/httpResponse.png)
 
 After the animation was admired, we added */robots.txt* to the end of the URL, which many tutorials explain that should be one of the first things you try. The file did exist, and it only contained one line - the flag.
 
-![](.\img\robots.txt.png)
+![](./img/robots.txt.png)
 
 
 

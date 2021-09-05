@@ -4,6 +4,8 @@
 
 The text for the challenge was: *You aren't a 🤖, right?*
 
+#### The Challenge
+
 When the challenge is entered, a web page is displayed containing one sentence, which is displayed twice, with a black background.
 
 ![](./img/website_small.png)
